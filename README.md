@@ -1,4 +1,6 @@
 # larkov
+![Maintenance](https://img.shields.io/maintenance/no/2018)
+
 A Lua markov Discord bot.
 
 This is a Lua adaption of the [node.js Discord bot Asrielborg](https://github.com/doakaloid/asrielborg).
